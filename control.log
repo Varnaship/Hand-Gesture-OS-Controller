@@ -1,0 +1,261 @@
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 353, in <module>
+    run(show_window=not args.headless, enable_hotkeys=not args.no_hotkeys)
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 169, in run
+    raise RuntimeError("Unable to open camera")
+RuntimeError: Unable to open camera
+ERROR conda.cli.main_run:execute(142): `conda run python -W ignore -m hand_gesture_controller.main --headless` failed. (See above for error)
+===== 2026-05-04 17:44:28 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 353, in <module>
+    run(show_window=not args.headless, enable_hotkeys=not args.no_hotkeys)
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 169, in run
+    raise RuntimeError("Unable to open camera")
+RuntimeError: Unable to open camera
+ERROR conda.cli.main_run:execute(142): `conda run python -W ignore -m hand_gesture_controller.main --headless` failed. (See above for error)
+===== 2026-05-04 17:45:53 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 14, in <module>
+    from hand_gesture_controller.control.action_dispatcher import ActionDispatcher
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/control/action_dispatcher.py", line 4, in <module>
+    from hand_gesture_controller.gesture.gesture_engine import GestureEngine, GestureEvent
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/gesture/gesture_engine.py", line 6, in <module>
+    from hand_gesture_controller.tracking.hand_tracker import TrackedHand
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/tracking/hand_tracker.py", line 6, in <module>
+    import mediapipe as mp
+ModuleNotFoundError: No module named 'mediapipe'
+===== 2026-05-04 17:46:53 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 14, in <module>
+    from hand_gesture_controller.control.action_dispatcher import ActionDispatcher
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/control/action_dispatcher.py", line 4, in <module>
+    from hand_gesture_controller.gesture.gesture_engine import GestureEngine, GestureEvent
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/gesture/gesture_engine.py", line 6, in <module>
+    from hand_gesture_controller.tracking.hand_tracker import TrackedHand
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/tracking/hand_tracker.py", line 6, in <module>
+    import mediapipe as mp
+ModuleNotFoundError: No module named 'mediapipe'
+===== 2026-05-04 17:47:32 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 14, in <module>
+    from hand_gesture_controller.control.action_dispatcher import ActionDispatcher
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/control/action_dispatcher.py", line 4, in <module>
+    from hand_gesture_controller.gesture.gesture_engine import GestureEngine, GestureEvent
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/gesture/gesture_engine.py", line 6, in <module>
+    from hand_gesture_controller.tracking.hand_tracker import TrackedHand
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/tracking/hand_tracker.py", line 6, in <module>
+    import mediapipe as mp
+ModuleNotFoundError: No module named 'mediapipe'
+===== 2026-05-04 17:48:25 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+launcher=conda
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 353, in <module>
+    run(show_window=not args.headless, enable_hotkeys=not args.no_hotkeys)
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 169, in run
+    raise RuntimeError("Unable to open camera")
+RuntimeError: Unable to open camera
+ERROR conda.cli.main_run:execute(142): `conda run python -W ignore -m hand_gesture_controller.main --headless` failed. (See above for error)
+===== 2026-05-04 17:53:08 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 17:59:30 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:02:44 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+launcher=conda
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 353, in <module>
+    run(show_window=not args.headless, enable_hotkeys=not args.no_hotkeys)
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 169, in run
+    raise RuntimeError("Unable to open camera")
+RuntimeError: Unable to open camera
+ERROR conda.cli.main_run:execute(142): `conda run python -W ignore -m hand_gesture_controller.main --headless` failed. (See above for error)
+===== 2026-05-04 18:04:08 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 353, in <module>
+    run(show_window=not args.headless, enable_hotkeys=not args.no_hotkeys)
+  File "/home/tnt/HandGestureProject/hand_gesture_controller/main.py", line 169, in run
+    raise RuntimeError("Unable to open camera")
+RuntimeError: Unable to open camera
+ERROR conda.cli.main_run:execute(142): `conda run python -W ignore -m hand_gesture_controller.main --headless` failed. (See above for error)
+===== 2026-05-04 18:05:00 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:09:50 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:11:17 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:18:27 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:18:32 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:18:33 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+===== 2026-05-04 18:18:33 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:19:52 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:34:16 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:37:05 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:37:16 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:41:59 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:42:59 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-04 18:43:32 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:05:04 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=auto xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:06:04 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:06:10 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:13:49 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:15:04 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:24:23 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:25:03 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:25:30 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:27:42 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:28:45 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:30:19 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:31:37 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:35:11 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:36:00 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:36:44 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:46:24 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:46:34 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:46:37 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 15:48:56 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+===== 2026-05-05 16:09:06 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+ERROR: Another instance of the app is already running (lock file exists)
+       Run: pkill -9 -f 'hand_gesture_controller.main' ; rm -f '/home/tnt/HandGestureProject/.app.lock'
+===== 2026-05-08 15:08:11 =====
+XDG_SESSION_TYPE=wayland DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+HGC_INPUT_BACKEND=xdotool xdotool=/usr/bin/xdotool
+launcher=conda
+ERROR: Another instance of the app is already running (lock file exists)
+       Run: pkill -9 -f 'hand_gesture_controller.main' ; rm -f '/home/tnt/HandGestureProject/.app.lock'

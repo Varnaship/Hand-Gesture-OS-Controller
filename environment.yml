@@ -1,0 +1,11 @@
+name: hand-gesture-controller
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - mediapipe==0.10.14
+      - opencv-python
+      - pyautogui
